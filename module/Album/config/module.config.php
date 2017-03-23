@@ -2,7 +2,7 @@
 namespace Album;
 
 use Zend\Router\Http\Segment;
-use Zend\ServiceManager\Factory\InvokableFactory;
+//use Zend\ServiceManager\Factory\InvokableFactory;
 
 /**
  * Created by PhpStorm.
@@ -11,13 +11,13 @@ use Zend\ServiceManager\Factory\InvokableFactory;
  * Time: 18:50
  */
 return [
-    'controllers' => [
+/*    'controllers' => [
         'factories' => [
             Controller\AlbumController::class => InvokableFactory::class,
         ],
     ],
 
-
+*/
     // The following section is new and should be added to your file:
     'router' => [
         'routes' => [
