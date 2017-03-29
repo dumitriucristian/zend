@@ -19,6 +19,7 @@ return [
     'ZendDeveloperTools',
     'Application',
     'Album',
+    'Blog'
 
 
 ];

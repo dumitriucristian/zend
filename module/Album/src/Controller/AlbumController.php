@@ -9,7 +9,6 @@ namespace Album\Controller;
  */
 /*for model db*/
 use Album\Model\AlbumTable;
-
 use Album\Form\AlbumForm;
 use Album\Model\Album;
 
